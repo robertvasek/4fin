@@ -1,9 +1,15 @@
 ---
-title: Welcome to my blog
+title: Aby Váš majetek rostl společně s Vámi
 ---
 
-* I would like to add content to my page
-* And I hope it will go through
+### Rád se vám postarám o finance, ať už se jedná o cokoliv
+* Úvěry
+* Investice
+* Pojištění
+* Reality
+* Důchod
 
-  ## And that's it
+### Zní to lákavě? Neváhejte se na mě obrátit s čímkoliv
+* _+420 731 713 838_
+* _robert.vasek@4fin.cz_
 
